@@ -42,14 +42,14 @@
      "128": "data/icons/128.png",
      "256": "data/icons/256.png"
   },
-  "homepage_url": "https://addons.mozilla.org/firefox/addon/aria2-integration",
+  "homepage_url": "https://github.com/ZalgoSoft/Aria2-Integration",
   "options_ui": {
     "page": "data/options/menu.html",
 	"open_in_tab": true
   },
   "applications": {
     "gecko": {
-      "id": "{e2488817-3d73-4013-850d-b66c5e42d505}",
+      "id": "{e2488817-3d74-4013-850d-b66c5e42d505}",
 	  "strict_min_version": "57.0"
     }
   }
