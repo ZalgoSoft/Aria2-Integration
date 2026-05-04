@@ -49,6 +49,7 @@
   },
   "applications": {
     "gecko": {
+      "data_collection_permissions": { "required": ["none"] },
       "id": "{e2488817-3d74-4013-850d-b66c5e42d505}",
 	  "strict_min_version": "57.0"
     }
